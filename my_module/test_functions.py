@@ -34,4 +34,4 @@ def test_describe_depression():
     assert describe_depression() == print(depression_description)
 
 def test_describe_anxiety():
-    assert describe_anxiety() == print(depression_description)
+    assert describe_anxiety() == print(anxiety_description)
